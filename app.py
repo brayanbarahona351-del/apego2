@@ -1,4 +1,3 @@
-[app.py.txt](https://github.com/user-attachments/files/26582118/app.py.txt)
 import streamlit as st
 from fpdf import FPDF
 
